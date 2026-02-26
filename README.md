@@ -3,7 +3,7 @@
 > Ask questions in plain English about 100K+ real Brazilian e-commerce orders
 ## 📸 Screenshot
 ![NL2SQL Studio Demo](static/img/Screenshot%20(11).png )
-![NL2SQL Studio Demo](static/img/static/img/Capture.png )
+![NL2SQL Studio Demo](static/img/Capture.png )
 ## Setup Guide (Step by Step)
 ### Step 1: Download Olist Dataset from Kaggle
 1. Go to: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce

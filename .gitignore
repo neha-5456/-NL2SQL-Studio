@@ -1,0 +1,25 @@
+cd C:\Users\Administrator\Downloads\nl2sql_demo_olist\-NL2SQL-Studio
+```
+
+### Step 1: `.gitignore` file banao
+
+Notepad mein yeh likh ke save karo as `.gitignore`:
+```
+# Database
+db.sqlite3
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+venv/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
